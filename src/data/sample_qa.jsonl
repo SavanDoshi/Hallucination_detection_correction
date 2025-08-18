@@ -1,0 +1,5 @@
+{"id": "1", "question": "What antibiotic is the patient currently taking for cellulitis?", "context": "Medication list: cephalexin 500 mg orally every 6 hours for 7 days.", "answers": ["cephalexin", "cephalexin 500 mg", "cephalexin 500 mg orally every 6 hours"]}
+{"id": "2", "question": "Does the patient have a documented penicillin allergy?", "context": "Allergies: NKDA.", "answers": ["no", "no documented penicillin allergy", "nkda"]}
+{"id": "3", "question": "What imaging test was negative for pulmonary embolism?", "context": "CTA chest was negative for PE.", "answers": ["cta chest", "cta", "ct angiography of the chest"]}
+{"id": "4", "question": "What inhaler is the patient using as needed?", "context": "Meds: albuterol inhaler PRN.", "answers": ["albuterol", "albuterol inhaler"]}
+{"id": "5", "question": "What is the likely diagnosis?", "context": "HPI: Two days of dyspnea; history of COPD. Exam: wheezing. Impression: likely COPD exacerbation.", "answers": ["copd exacerbation", "exacerbation of copd"]}
